@@ -1,0 +1,9 @@
+[submodule "submodules/SDL"]
+	path = submodules/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "submodules/Vulkan-Headers"]
+	path = submodules/Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+[submodule "submodules/volk"]
+	path = submodules/volk
+	url = https://github.com/zeux/volk.git
